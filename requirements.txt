@@ -1,0 +1,5 @@
+- requests
+- mathplotlib
+- wordcloud
+- pandas
+- IPython.display
