@@ -1,5 +1,6 @@
 - requests
-- mathplotlib
+- matplotlib
 - wordcloud
 - pandas
 - IPython.display
+- spacy==3.7.5
